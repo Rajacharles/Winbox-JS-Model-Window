@@ -1,4 +1,4 @@
-# Winbox-JS-Model-Window
+# Winbox-JS-Modal-Window
 
 WinBox.js is a professional HTML5 window manager for the web. WinBox is a lightweight, outstanding performance, no dependencies, fully customizable and open source. Features include
 1. Multiple modal
